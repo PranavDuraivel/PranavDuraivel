@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 Connect with me:
 <p align="left">
-  <a href="[https://www.linkedin.com/in/pranavduraivel]" target="_blank">
+  <a href="https://www.linkedin.com/in/pranavduraivel" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" />
   </a>
 </p>
