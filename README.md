@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">Acoustical and Vibration Engineer</h3>
 
-- 🎓 I'm currently working on **retinal image processing** using OpenCV  
-- 🔍 Interested in **Machine Learning**, **Medical Imaging**, and **AI for healthcare**
+- 🎓 I'm currently working on **SOUNDBOARD MODELLING OF PIANO** using COMSOL Multiphysics 
+- 🔍 Interested in **Electroacoustics**, **Musical acoustics**, and **Structural vibration**
 - 🌱 I’m currently learning:  
-  - Deep Learning  
-  - Morphological Operations  
-  - Edge Detection & Thresholding Techniques  
+  - Meachine learning in Signal Processing  
+  - Noise Control  
 - 📂 All my projects are available at: [My GitHub Portfolio]([https://github.com/your-username](https://pranavduraivel.github.io))
 
 - 💬 Ask me about: `Python`, `Signal Processing`, `Active control of Sound and Vibration`
