@@ -22,14 +22,14 @@
 ---
 
 ### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="30" alt="MATLAB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Mathematica_Logo.svg" height="30" alt="Mathematica"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/COMSOL_Multiphysics_logo.svg/2560px-COMSOL_Multiphysics_logo.svg.png" height="30" alt="COMSOL" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" alt="MATLAB"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Mathematica_Logo.svg" width="40" alt="Mathematica"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/COMSOL_Multiphysics_logo.svg/2560px-COMSOL_Multiphysics_logo.svg.png" width="90" alt="COMSOL" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/OpenCV_Logo_with_text_svg_version.svg" width="60" alt="OpenCV"/>
 </p>
 
 ---
