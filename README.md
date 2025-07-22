@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning:  
   - Meachine learning in Signal Processing  
   - Noise Control  
-- 📂 All my projects are available at: [My GitHub Portfolio]([https://github.com/your-username](https://pranavduraivel.github.io))
+- 📂 All my projects are available at: [My GitHub Portfolio](https://pranavduraivel.github.io)
 
 - 💬 Ask me about: `Python`, `Signal Processing`, `Active control of Sound and Vibration`
 - 📫 How to reach me: rickypranav@outlook.com
