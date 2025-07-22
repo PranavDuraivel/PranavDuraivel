@@ -29,9 +29,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" alt="MATLAB"/>
-  <img src="https://raw.githubusercontent.com/Pranav108/comsol-multiphysics-logo/main/comsol-logo.png" width="80" alt="COMSOL"/>
-  <img src="https://raw.githubusercontent.com/Pranav108/wolfram-mathematica-logo/main/mathematica-logo.png" width="40" alt="Mathematica"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/OpenCV_Logo_with_text_svg_version.svg" width="60" alt="OpenCV"/>
+  <img src="assets/comsol.png" width="40" alt="COMSOL"/>
+  <img src="assets/mathematica.png" width="40" alt="Mathematica"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40"/>
 </p>
 
 
