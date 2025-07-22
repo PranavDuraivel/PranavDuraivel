@@ -36,8 +36,8 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark" alt="Pranav's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PranavDuraivel&show_icons=true&theme=github_dark" alt="Pranav's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavDuraivel&layout=compact&theme=github_dark" alt="Top Languages"/>
 </p>
 
 ---
