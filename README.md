@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">Acoustical and Vibration Engineer</h3>
 
-- 🎓 I'm currently working on **SOUNDBOARD MODELLING OF PIANO** using COMSOL Multiphysics 
+- 🎓 I'm currently working on **Soundboard Modelling of Piano** using COMSOL Multiphysics 
 - 🔍 Interested in **Electroacoustics**, **Musical acoustics**, and **Structural vibration**
 - 🌱 I’m currently learning:  
   - Meachine learning in Signal Processing  
