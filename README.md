@@ -32,8 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40" alt="Excel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/JCL-Job%20Control%20Language-blue?style=for-the-badge&logo=ibm&logoColor=white" width="40" alt="JCL"/>
-  <img src="https://img.shields.io/badge/Natural-Software%20AG-orange?style=for-the-badge" width="40" alt="Natural"/>
 </p>
 
 
