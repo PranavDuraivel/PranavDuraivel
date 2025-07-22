@@ -16,23 +16,24 @@
 
 ### 🧑‍💻 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/pranavduraivel" target="blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" /></a>
+  <a href="[https://www.linkedin.com/in/pranavduraivel]" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" />
+  </a>
 </p>
 
 ---
 
 ### 🛠️ Languages and Tools:
-<p>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" alt="MATLAB"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Mathematica_Logo.svg" width="40" alt="Mathematica"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/COMSOL_Multiphysics_logo.svg/2560px-COMSOL_Multiphysics_logo.svg.png" width="90" alt="COMSOL" />
+  <img src="https://raw.githubusercontent.com/Pranav108/comsol-multiphysics-logo/main/comsol-logo.png" width="80" alt="COMSOL"/>
+  <img src="https://raw.githubusercontent.com/Pranav108/wolfram-mathematica-logo/main/mathematica-logo.png" width="40" alt="Mathematica"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/OpenCV_Logo_with_text_svg_version.svg" width="60" alt="OpenCV"/>
 </p>
 
----
 
 ### 📊 GitHub Stats:
 <p align="center">
