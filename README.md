@@ -25,11 +25,15 @@
 ### 🛠️ Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" alt="MATLAB"/>
   <img src="assets/comsol.png" width="40" alt="COMSOL"/>
   <img src="assets/mathematica.png" width="40" alt="Mathematica"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40" alt="Excel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/JCL-Job%20Control%20Language-blue?style=for-the-badge&logo=ibm&logoColor=white" width="40" alt="JCL"/>
+  <img src="https://img.shields.io/badge/Natural-Software%20AG-orange?style=for-the-badge" width="40" alt="Natural"/>
 </p>
 
 
