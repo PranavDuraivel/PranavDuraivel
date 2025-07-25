@@ -44,9 +44,10 @@
 ---
 
 ### 📌 Featured Projects:
-- 🔬 **Loudspeaker Design**
-- 📊 **Piano Soundboard Modelling**
-- 🧠 **Musical Theatre Design**
+
+- 🔊 **Loudspeaker Design**
+- 🎹 **Piano Soundboard Modelling**
+- 🎭 **Musical Theatre Design**
 
 ---
 
