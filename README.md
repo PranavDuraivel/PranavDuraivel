@@ -9,7 +9,7 @@
 - 📂 All my projects are available at: [My GitHub Portfolio](https://pranavduraivel.github.io)
 
 - 💬 Ask me about: `Python`, `Signal Processing`, `Active control of Sound and Vibration`
-- 📫 How to reach me: rickypranav@outlook.com
+- 📫 How to reach me: pranavduraivel@outlook.com
 
 ---
 
